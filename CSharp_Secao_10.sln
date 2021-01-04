@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao_10_Aula_126_Heranca", "Secao_10_Aula_126_Heranca\Secao_10_Aula_126_Heranca.csproj", "{3475DE1F-2D24-4341-9098-1248E5679518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao_10_Aula_127_Upcasting_Downcasting", "Secao_10_Aula_127_Upcasting_Downcasting\Secao_10_Aula_127_Upcasting_Downcasting.csproj", "{071FA8F4-C590-4D3A-8C9F-4F7EA6C02789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3475DE1F-2D24-4341-9098-1248E5679518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3475DE1F-2D24-4341-9098-1248E5679518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3475DE1F-2D24-4341-9098-1248E5679518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3475DE1F-2D24-4341-9098-1248E5679518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071FA8F4-C590-4D3A-8C9F-4F7EA6C02789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071FA8F4-C590-4D3A-8C9F-4F7EA6C02789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071FA8F4-C590-4D3A-8C9F-4F7EA6C02789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071FA8F4-C590-4D3A-8C9F-4F7EA6C02789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DA8350A-D56F-4AB0-B6B7-30634FC47EE0}
+	EndGlobalSection
+EndGlobal
