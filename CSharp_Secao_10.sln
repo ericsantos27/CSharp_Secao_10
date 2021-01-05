@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao_10_Aula_126_Heranca", "Secao_10_Aula_126_Heranca\Secao_10_Aula_126_Heranca.csproj", "{3475DE1F-2D24-4341-9098-1248E5679518}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao_10_Aula_126_Heranca", "Secao_10_Aula_126_Heranca\Secao_10_Aula_126_Heranca.csproj", "{3475DE1F-2D24-4341-9098-1248E5679518}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao_10_Aula_127_Upcasting_Downcasting", "Secao_10_Aula_127_Upcasting_Downcasting\Secao_10_Aula_127_Upcasting_Downcasting.csproj", "{071FA8F4-C590-4D3A-8C9F-4F7EA6C02789}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao_10_Aula_127_Upcasting_Downcasting", "Secao_10_Aula_127_Upcasting_Downcasting\Secao_10_Aula_127_Upcasting_Downcasting.csproj", "{071FA8F4-C590-4D3A-8C9F-4F7EA6C02789}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao_10_Aula_128_Sobreposicao_Virtual_Override_Base", "Secao_10_Aula_128_Sobreposicao_Virtual_Override_Base\Secao_10_Aula_128_Sobreposicao_Virtual_Override_Base.csproj", "{8D748995-AF73-4CBB-9D5B-AB137CC40DD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao_10_Aula_128_Sobreposicao_Virtual_Override_Base", "Secao_10_Aula_128_Sobreposicao_Virtual_Override_Base\Secao_10_Aula_128_Sobreposicao_Virtual_Override_Base.csproj", "{8D748995-AF73-4CBB-9D5B-AB137CC40DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao_10_Aula_129_Classes_Metodos_Selados", "Secao_10_Aula_129_Classes_Metodos_Selados\Secao_10_Aula_129_Classes_Metodos_Selados.csproj", "{ACC65978-DEBF-4E2A-8E61-122207C1EBD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8D748995-AF73-4CBB-9D5B-AB137CC40DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D748995-AF73-4CBB-9D5B-AB137CC40DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D748995-AF73-4CBB-9D5B-AB137CC40DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC65978-DEBF-4E2A-8E61-122207C1EBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC65978-DEBF-4E2A-8E61-122207C1EBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC65978-DEBF-4E2A-8E61-122207C1EBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC65978-DEBF-4E2A-8E61-122207C1EBD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
