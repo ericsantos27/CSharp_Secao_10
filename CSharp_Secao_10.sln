@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao_10_Aula_128_Sobreposi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao_10_Aula_129_Classes_Metodos_Selados", "Secao_10_Aula_129_Classes_Metodos_Selados\Secao_10_Aula_129_Classes_Metodos_Selados.csproj", "{ACC65978-DEBF-4E2A-8E61-122207C1EBD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao_10_Aula_132_Exercício_Heranca_Polimorfismo", "Secao_10_Aula_132_Exercício_Heranca_Polimorfismo\Secao_10_Aula_132_Exercício_Heranca_Polimorfismo.csproj", "{FD880B62-ECB9-48D5-9864-7EF8FADCB4A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{ACC65978-DEBF-4E2A-8E61-122207C1EBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACC65978-DEBF-4E2A-8E61-122207C1EBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACC65978-DEBF-4E2A-8E61-122207C1EBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD880B62-ECB9-48D5-9864-7EF8FADCB4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD880B62-ECB9-48D5-9864-7EF8FADCB4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD880B62-ECB9-48D5-9864-7EF8FADCB4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD880B62-ECB9-48D5-9864-7EF8FADCB4A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
