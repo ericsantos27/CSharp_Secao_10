@@ -30,7 +30,7 @@ namespace Secao_10_Aula_128_Sobreposicao_Virtual_Override_Base.Entidades
         public override void WithdrawFunds(double amount)
         {
             base.WithdrawFunds(amount);
-            AccountBalance -= 2.00;
+            AccountBalance -= 0.20;
         }
     }
 }

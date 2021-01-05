@@ -22,7 +22,7 @@ namespace Secao_10_Aula_128_Sobreposicao_Virtual_Override_Base.Entidades
 
         public virtual void WithdrawFunds(double amount)
         {
-            AccountBalance -= (amount + 5.00);
+            AccountBalance -= (amount + 0.10);
         }
         public void DepositFunds(double amount)
         {
