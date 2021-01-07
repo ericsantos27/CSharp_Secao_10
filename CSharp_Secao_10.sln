@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao_10_Aula_129_Classes_M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao_10_Aula_132_Exercício_Heranca_Polimorfismo", "Secao_10_Aula_132_Exercício_Heranca_Polimorfismo\Secao_10_Aula_132_Exercício_Heranca_Polimorfismo.csproj", "{FD880B62-ECB9-48D5-9864-7EF8FADCB4A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao_10_Aula_133_Exercicio_Proposto_Heranca_Polimorfismo", "Secao_10_Aula_133_Exercicio_Proposto_Heranca_Polimorfismo\Secao_10_Aula_133_Exercicio_Proposto_Heranca_Polimorfismo.csproj", "{E39BC0EB-CE04-420C-9A33-F625FDAD225F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao_10_Aula_133_Exercicio_Proposto_Heranca_Polimorfismo", "Secao_10_Aula_133_Exercicio_Proposto_Heranca_Polimorfismo\Secao_10_Aula_133_Exercicio_Proposto_Heranca_Polimorfismo.csproj", "{E39BC0EB-CE04-420C-9A33-F625FDAD225F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao_10_Aula_134_Classes_Abstratas", "Secao_10_Aula_134_Classes_Abstratas\Secao_10_Aula_134_Classes_Abstratas.csproj", "{805C59AB-1E35-425E-BF94-81BA4D7167F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E39BC0EB-CE04-420C-9A33-F625FDAD225F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E39BC0EB-CE04-420C-9A33-F625FDAD225F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E39BC0EB-CE04-420C-9A33-F625FDAD225F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805C59AB-1E35-425E-BF94-81BA4D7167F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805C59AB-1E35-425E-BF94-81BA4D7167F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805C59AB-1E35-425E-BF94-81BA4D7167F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805C59AB-1E35-425E-BF94-81BA4D7167F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
